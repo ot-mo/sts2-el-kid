@@ -1,0 +1,8 @@
+{
+  "ELKID-TIME.title": "Time",
+  "ELKID-TIME.description": "Gained mostly from [gold]SLOW[/gold] card halves. In [gold]Fast[/gold] mode, dual cards spend 1 Time to play their [gold]FAST[/gold] half.\nMax 5. Resets each combat.",
+  "ELKID-FAST_MODE.title": "Fast / Slow",
+  "ELKID-FAST_MODE.description": "[gold]Right-click[/gold] a dual card in your hand to make just that card Fast, or use the button next to your Energy to make all of them Fast.\nA Fast card spends 1 [aqua]Time[/aqua] to play its [gold]FAST[/gold] half. When Time runs out, cards go back to [gold]SLOW[/gold].",
+  "ELKID-BLINK.title": "Blink",
+  "ELKID-BLINK.description": "Gain that much [gold]Block[/gold] and [gold]Vigor[/gold]: your next Attack deals that much additional damage."
+}

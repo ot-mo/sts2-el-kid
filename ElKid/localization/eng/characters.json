@@ -1,0 +1,16 @@
+{
+  "ELKID-EL_KID.title": "El Kid",
+  "ELKID-EL_KID.titleObject": "El Kid",
+  "ELKID-EL_KID.description": "A young duelist who fights between the ticks of the clock.\nBank [aqua]Time[/aqua] when you're Slow, then spend it Fast.",
+  "ELKID-EL_KID.pronounSubject": "he",
+  "ELKID-EL_KID.pronounObject": "him",
+  "ELKID-EL_KID.possessiveAdjective": "his",
+  "ELKID-EL_KID.pronounPossessive": "his",
+  "ELKID-EL_KID.goldMonologue": "[sine]Could buy a lot of time with this...[/sine]",
+  "ELKID-EL_KID.eventDeathPrevention": "Not yet. The clock's still ticking.",
+  "ELKID-EL_KID.aromaPrinciple": "[sine][aqua]Faster than the blink of an eye.[/aqua][/sine]",
+  "ELKID-EL_KID.cardsModifierTitle": "El Kid Cards",
+  "ELKID-EL_KID.cardsModifierDescription": "El Kid cards will now appear in rewards and shops.",
+  "ELKID-EL_KID.banter.alive.endTurnPing": "Tick tock.",
+  "ELKID-EL_KID.banter.dead.endTurnPing": "..."
+}

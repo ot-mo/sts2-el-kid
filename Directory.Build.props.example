@@ -1,0 +1,11 @@
+<Project>
+    <!-- Copy this file to Directory.Build.props (which is git-ignored) and set the paths for your machine. -->
+    <PropertyGroup>
+        <!-- MegaDot or Godot 4.5.1 .NET executable, used to export the .pck when publishing.
+             The game won't load a .pck exported with a newer Godot version. -->
+        <GodotPath>C:/Tools/Godot/Godot_v4.5.1-stable_mono_win64/Godot_v4.5.1-stable_mono_win64_console.exe</GodotPath>
+
+        <!-- Only needed if Slay the Spire 2 isn't found automatically (e.g. it's in another Steam library). -->
+        <!-- <Sts2Path>D:/SteamLibrary/steamapps/common/Slay the Spire 2</Sts2Path> -->
+    </PropertyGroup>
+</Project>

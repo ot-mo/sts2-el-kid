@@ -1,0 +1,14 @@
+{
+  "ELKID-STOLEN_SECONDS_POWER.title": "Borrowed Time",
+  "ELKID-STOLEN_SECONDS_POWER.description": "Whenever you lose HP on your turn, gain [aqua]Time[/aqua].",
+  "ELKID-STOLEN_SECONDS_POWER.smartDescription": "Whenever you lose HP on your turn, gain [blue]{Amount}[/blue] [aqua]Time[/aqua].",
+  "ELKID-QUICKSILVER_POWER.title": "Quicksilver",
+  "ELKID-QUICKSILVER_POWER.description": "Whenever you play a card [gold]Fast[/gold], gain [gold]Block[/gold].",
+  "ELKID-QUICKSILVER_POWER.smartDescription": "Whenever you play a card [gold]Fast[/gold], gain [blue]{Amount}[/blue] [gold]Block[/gold].",
+  "ELKID-FLURRY_POWER.title": "Flurry",
+  "ELKID-FLURRY_POWER.description": "Whenever you play a card [gold]Fast[/gold], deal damage to a random enemy.",
+  "ELKID-FLURRY_POWER.smartDescription": "Whenever you play a card [gold]Fast[/gold], deal [blue]{Amount}[/blue] damage to a random enemy.",
+  "ELKID-CLOCKWORK_HEART_POWER.title": "Clockwork Heart",
+  "ELKID-CLOCKWORK_HEART_POWER.description": "At the start of your turn, gain [aqua]Time[/aqua].",
+  "ELKID-CLOCKWORK_HEART_POWER.smartDescription": "At the start of your turn, gain [blue]{Amount}[/blue] [aqua]Time[/aqua]."
+}
